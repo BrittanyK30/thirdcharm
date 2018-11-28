@@ -1,5 +1,4 @@
 # thirdcharm
-# logger
 # Project Objective: 
 #
 
